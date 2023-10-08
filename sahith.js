@@ -7,7 +7,7 @@
 </head>
 <body>
     <script>
-        //arithamatic opa(Arithmetic operators perform arithmetic on numbers (literals or variables).)
+        //arithamatic operations(Arithmetic operators perform arithmetic on numbers (literals or variables).)
         var x = 10;
         var y = 10;
         console.log(z = x + y);//("+" Addition)
@@ -19,7 +19,7 @@
         console.log(z = --x + y);//("--" Decrement)
         console.log(z = x ** y);//("**" Exponentiation )
         
-        // comparison opa(Comparison operators are used in difference between variables or values)
+        // comparison operations(Comparison operators are used in difference between variables or values)
         var x = 10; y = 10;
         console.log(x == y); // ("==" equal to)
         console.log(x > y); //(">" 	greater than )
@@ -30,7 +30,7 @@
         console.log(x != ++y);
         console.log(x !== y); //("!==" not equal value or not equal type)
 
-        //Assignment opa (Assignment operators assign values to variables)
+        //Assignment operations (Assignment operators assign values to variables)
         var x = 11; y = 10;//("=" (Assignment))
         console.log(x += y);//("+=" (Add and assign))
         console.log(x -= y);//("-=" (Subtract and assign))
