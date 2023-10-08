@@ -20,7 +20,8 @@
         console.log(z = x ** y);//("**" Exponentiation )
         
         // comparison operations(Comparison operators are used in difference between variables or values)
-        var x = 10; y = 10;
+        var x = 10;
+        var y = 10;
         console.log(x == y); // ("==" equal to)
         console.log(x > y); //(">" 	greater than )
         console.log(x >= y); //("<=" greater than or equal to)
@@ -31,7 +32,8 @@
         console.log(x !== y); //("!==" not equal value or not equal type)
 
         //Assignment operations (Assignment operators assign values to variables)
-        var x = 11; y = 10;//("=" (Assignment))
+        var x = 11; 
+        var y = 10;
         console.log(x += y);//("+=" (Add and assign))
         console.log(x -= y);//("-=" (Subtract and assign))
         console.log(x %= y);//("%=" (Modulus and assign))
